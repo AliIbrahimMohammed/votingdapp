@@ -18,8 +18,9 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <main className={styles.main}>
           <ConnectWallet/>
+        <h1> Voting Dapp </h1>
         <div className={styles.card}>
-          <h1>Voting Dapp</h1>
+          <h1>The first question</h1>
           <div>
             {address ? (
               <div>
@@ -68,7 +69,7 @@ const Home: NextPage = () => {
         </div>
         {/* ===================================== */}
         <div className={styles.card}>
-          <h1>Voting Dapp</h1>
+          <h1>second question</h1>
           <div>
             {address ? (
               <div>
