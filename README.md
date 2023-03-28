@@ -1,4 +1,5 @@
-##Voting Dapp
+###Voting Dapp
+
 A voting system using blockchain technology can be designed to provide a secure, transparent, and tamper-proof way for users to vote on a true/false question. The voting system would be implemented using a smart contract on a blockchain platform such as Ethereum, Binance Smart Chain, or Polygon.
 
 The voting system would require users to connect their digital wallets to the system, which would then authenticate their identities and allow them to vote on the true/false question. Once the user has voted, their vote would be recorded on the blockchain in a transparent and immutable manner, ensuring that the results of the vote cannot be tampered with.
